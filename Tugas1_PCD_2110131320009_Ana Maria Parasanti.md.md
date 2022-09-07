@@ -1,10 +1,9 @@
-# Kelompok 9 - InfraMerah
+# Kelompok 9 - InfraMerah (Infrared Obstacle)
 ## Anggota: Fatimah Azzahra Maulida (2110131220020) & Ana Maria Parasanti (2110131320009)
 
 ---
-**Pengolahan Citra Digital untuk Menentukan Kadar Asam pada Buah dengan Bantuan Modul Inframerah obstacle**
 
-Kasus: Mengukur kadar asam pada buah jeruk nipis dengan pengolahan citra digital yang menggunakan modul inframerah obstacle.
+Contoh kasus: Mengukur kadar asam pada buah jeruk nipis dengan **pengolahan citra digital** yang menggunakan modul **inframerah obstacle**.
 
 - Alat yang digunakan
 
