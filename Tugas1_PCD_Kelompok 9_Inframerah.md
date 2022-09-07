@@ -27,6 +27,9 @@ Inframerah adalah radiasi elektromagnetik dari panjang gelombang lebih panjang d
 1. Inframerah Jarak Jauh
 
     Inframerah ini memiliki panjang gelombang 10 µm sampai 100 µm  sehingga cenderung jauh. Contohnya terdapat pada beberapa alat kesehatan misalnya gelang kesehatan.
+    
+    ![inframerah]()
+    
 2. Inframerah Jarak Menengah
 
     Infrared ini memiliki panjang gelombang 1.5 µm sampai 10 µm sehingga tidak terlalu dekat maupun jauh. Contohnya terdapat pada sensor alarm.
