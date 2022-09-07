@@ -1,47 +1,64 @@
+![Logo ulm](https://user-images.githubusercontent.com/112606990/188874672-07dbff81-fc9c-4a90-b5d0-a051f3e22671.png)
+
 # Kelompok 9 - InfraMerah
-## Anggota: Fatimah Azzahra Maulida (2110131220020) & Ana Maria Parasanti (2110131320009)
+### Anggota:
+### - Fatimah Azzahra Maulida (2110131220020)
+### - Ana Maria Parasanti (2110131320009)
 
 ---
-**Inframerah**
+## **Inframerah (Infrared)**
 
 ![inframerah](https://user-images.githubusercontent.com/112605121/188873991-bbf5c8cb-7f81-4bfe-a066-b7873cca4f4b.jpg)
 
-- Pengertian
+## Pengertian
 
 Inframerah adalah radiasi elektromagnetik dari panjang gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. Namanya berarti "bawah merah" (dari bahasa Latin infra, "bawah"), merah merupakan warna dari cahaya tampak dengan gelombang terpanjang. Radiasi inframerah memiliki jangkauan tiga "order" dan memiliki panjang gelombang antara 700 nm dan 1 mm. Inframerah ditemukan secara tidak sengaja oleh Sir William Herschell, astronom kerajaan Inggris ketika ia sedang mengadakan penelitian mencari bahan penyaring optis yang akan digunakan untuk mengurangi kecerahan gambar matahari pada teleskop tata surya.
 
-- Karakteristik
-    1. Sumbernya bisa didapatkan dari radiasi panas
-    2. Memiliki panjang gelombang yang berbalik dengan suhu, yaitu ketika suhu naik maka panjang gelombang infra merah akan turun dan sebaliknya
-    3. Berpotensi diinterfensi oleh sinar matahari
-    4. Sinarnya tidak tertangkap mata manusia
-    5. Tidak bisa menembus objek yang tidak transparan
+## Karakteristik
+1. Sumbernya bisa didapatkan dari radiasi panas
+2. Memiliki panjang gelombang yang berbalik dengan suhu, yaitu ketika suhu naik maka panjang gelombang infra merah akan turun dan sebaliknya
+3. Berpotensi diinterfensi oleh sinar matahari
+4. Sinarnya tidak tertangkap mata manusia
+5. Tidak bisa menembus objek yang tidak transparan
 
-- Tipe Infra Merah Berdasarkan Jaraknya
-    1. Infra Merah Jarak Jauh
-        Infra merah ini memiliki panjang gelombang 10 µm sampai 100 µm  sehingga cenderung jauh. Contohnya terdapat pada beberapa alat kesehatan misalnya gelang kesehatan.
-    2. Infra Merah Jarak Menengah
-        Infrared ini memiliki panjang gelombang 1.5 µm sampai 10 µm sehingga tidak terlalu dekat maupun jauh. Contohnya terdapat pada sensor alarm.
-    3. Infra Merah Jarak Dekat
-        Infrared jarak dekat memiliki panjang gelombang 0.75 µm sampai 1.5 µm saja. Contohnya terdapat pada alat untuk meningkatan penglihatan manusia pada kondisi cahaya yang sangat rendah seperti Nightscoop.
+## Tipe Infra Merah Berdasarkan Jaraknya
+1. Infra Merah Jarak Jauh
 
-- Kelebihan dan Kekurangan Infra Merah
-    **Kelebihan**
-    + Tidak Terikat Waktu
-        Transfer data atau file tidak terikat waktu (bisa dilakukan kapan saja) karena infra merah tidak membutuhkan sinyal dalam pengoperasiannya.
-    + Mudah Digunakan
-        Pengiriman file mudah dilakukan siapa saja karena termasuk alat yang sederhana dan mudah digunakan.
-    + Bebas Biaya
-        Transfer data dari satu perangkat ke perangkat lainnya tidak menggunakan biaya (gratis)
-    **Kekurangan**
-    + Tidak Praktis
-        Saat melakukan pengiriman file dengan infrared, lubang infrared pada perangkat harus berhadapan satu sama lain sehingga cukup merepotkan. Pengiriman data pun terasa lebih sulit karena berpotensi data tidak terkirim.
-    + Cenderung Berbahaya
-        Karena merupakan sinar elektromagnetik, infrared sangat berbahaya bagi penglihatan. Oleh karena itu, jangan sampai sorotan infra merah mengenai mata karena bisa menyebabkan berbagai penyakit berbahaya.
-    + Relatif Lamban
-        Dibandingkan dengan media transfer data lain seperti bluetooth, kecepatan infrared mengirim data relatif lambat.
+    Infra merah ini memiliki panjang gelombang 10 µm sampai 100 µm  sehingga cenderung jauh. Contohnya terdapat pada beberapa alat kesehatan misalnya gelang kesehatan.
+2. Infra Merah Jarak Menengah
 
-- Contoh Kasus
+    Infrared ini memiliki panjang gelombang 1.5 µm sampai 10 µm sehingga tidak terlalu dekat maupun jauh. Contohnya terdapat pada sensor alarm.
+3. Infra Merah Jarak Dekat
+
+    Infrared jarak dekat memiliki panjang gelombang 0.75 µm sampai 1.5 µm saja. Contohnya terdapat pada alat untuk meningkatan penglihatan manusia pada kondisi cahaya yang sangat rendah seperti Nightscoop.
+
+## Kelebihan dan Kekurangan Infra Merah
+
+**Kelebihan**
+
+- Tidak Terikat Waktu
+
+    Transfer data atau file tidak terikat waktu (bisa dilakukan kapan saja) karena infra merah tidak membutuhkan sinyal dalam pengoperasiannya.
+- Mudah Digunakan
+
+    Pengiriman file mudah dilakukan siapa saja karena termasuk alat yang sederhana dan mudah digunakan.
+- Bebas Biaya
+
+    Transfer data dari satu perangkat ke perangkat lainnya tidak menggunakan biaya (gratis).
+    
+**Kekurangan**
+
+- Tidak Praktis
+
+    Saat melakukan pengiriman file dengan infrared, lubang infrared pada perangkat harus berhadapan satu sama lain sehingga cukup merepotkan. Pengiriman data pun terasa lebih sulit karena berpotensi data tidak terkirim.
+- Cenderung Berbahaya
+
+    Karena merupakan sinar elektromagnetik, infrared sangat berbahaya bagi penglihatan. Oleh karena itu, jangan sampai sorotan infra merah mengenai mata karena bisa menyebabkan berbagai penyakit berbahaya.
+- Relatif Lamban
+
+    Dibandingkan dengan media transfer data lain seperti bluetooth, kecepatan infrared mengirim data relatif lambat.
+
+## Contoh Kasus
     Kasus: Mengukur kadar asam pada buah jeruk nipis dengan pengolahan citra digital yang menggunakan modul inframerah obstacle.
 
 -Alat yang digunakan
