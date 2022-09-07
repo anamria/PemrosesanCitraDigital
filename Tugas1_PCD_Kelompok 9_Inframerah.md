@@ -61,7 +61,7 @@ Inframerah adalah radiasi elektromagnetik dari panjang gelombang lebih panjang d
 ## Contoh Kasus
     Kasus: Mengukur kadar asam pada buah jeruk nipis dengan pengolahan citra digital yang menggunakan modul inframerah obstacle.
 
--Alat yang digunakan
+> Alat yang digunakan
 
 Pembuatan   alat   terbagi   menjadi   pembuatan perangkat   keras   dan   pembuatan   perangkat lunak.    Modul/kompomen    elektronika    yang digunakan pada alat untuk melakukan pengukuran  kadar  asam  askorbat  antara  lain Kamera yang digunakan untuk mengambil citra larutan  yang  dititrasi,  Arduino  Nano,  Modul Inframerah obstacle,    motor    servo,    Motor pengaduk,   lampu   dan   perangkat komputer untuk  mengolah  citra digital  yang  ditangkap oleh kamera.
 
