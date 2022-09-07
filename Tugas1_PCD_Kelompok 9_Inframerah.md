@@ -2,13 +2,13 @@
 
 `PEMROSESAN CITRA DIGITAL - PENDIDIKAN ILMU KOMPUTER FKIP`
 
-# *Kelompok 9 - InfraMerah*
+# *Kelompok 9 - Inframerah*
 ### Anggota:
-### - Fatimah Azzahra Maulida (2110131220020)
-### - Ana Maria Parasanti (2110131320009)
+> ### 1. Fatimah Azzahra Maulida (2110131220020)
+> ### 2. Ana Maria Parasanti (2110131320009)
 
 ---
-## **Inframerah (Infrared)**
+## **INFRAMERAH (INFRARED)**
 
 ![inframerah](https://user-images.githubusercontent.com/112605121/188873991-bbf5c8cb-7f81-4bfe-a066-b7873cca4f4b.jpg)
 
@@ -27,9 +27,6 @@ Inframerah adalah radiasi elektromagnetik dari panjang gelombang lebih panjang d
 1. Inframerah Jarak Jauh
 
     Inframerah ini memiliki panjang gelombang 10 µm sampai 100 µm  sehingga cenderung jauh. Contohnya terdapat pada beberapa alat kesehatan misalnya gelang kesehatan.
-    
-    ![inframerah]()
-    
 2. Inframerah Jarak Menengah
 
     Infrared ini memiliki panjang gelombang 1.5 µm sampai 10 µm sehingga tidak terlalu dekat maupun jauh. Contohnya terdapat pada sensor alarm.
@@ -129,3 +126,5 @@ Sedangkan  citra  hasil  filter  warna  pada  ruang warna  HSV  dan  citra  hasi
 
 <img width="465" src="https://user-images.githubusercontent.com/112605121/188874836-dd0ffe14-6598-40e7-8610-f5cbcd09cd48.PNG">
 <img width="385" src="https://user-images.githubusercontent.com/112605121/188874870-92298802-ccd4-4256-913e-b485f406c6e9.PNG">
+
+---
