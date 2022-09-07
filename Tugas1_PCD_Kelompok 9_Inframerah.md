@@ -1,4 +1,4 @@
-![Logo ulm](https://user-images.githubusercontent.com/112606990/188874672-07dbff81-fc9c-4a90-b5d0-a051f3e22671.png)
+![Logo ulmm](https://user-images.githubusercontent.com/112606990/188906213-2308fa4c-34c1-4144-a4e5-d78febe465fd.png)
 
 `PEMROSESAN CITRA DIGITAL - PENDIDIKAN ILMU KOMPUTER FKIP`
 
